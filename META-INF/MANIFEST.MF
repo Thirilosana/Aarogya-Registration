@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Pega-Codeset-Patch: 
+Engine-Version: 08-08-04
+Pega-Codeset-Version: 06-01-01
+ArtifactName: Aarogya
+Synchronizable: false
+ArtifactVersion: 01.01.01
+Type: Product
+Product-Creation-Date: 2023-Sep-12 04:00:00
+PRPC-Engine: 8.8.3 PRPC-8.8.3-478 ()
+Operator: 20bcs4051@mkce.ac.in
+ArtifactType: application
+Pega-Archive-Type: ApplicationBundle
+Name: Aarogya_010101_20230912T075507_GMT.zip
+Archive-Type: PegaArchive
+Export-Date: 2023-Sep-12 07:55:54
+Pega-Codeset-Name: Customer
+Instance-Count: 37788
+
+Name: FileMetadata
+
